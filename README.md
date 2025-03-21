@@ -1,1 +1,3 @@
 # Leaflet-Challange
+
+We've enhanced the map by adding multiple base map layers (OpenStreetMap, Satellite, Greyscale, and Outdoor) that allow users to switch between different background styles. Additionally, we've included overlay layers, such as tectonic plate boundaries and earthquake makers styled as bubbles. The earthquake bubbles' size is based on magnitude, and their color reflects depth. These layers can be toggled on or off independently, giving users more control over the map's data. A legend has also been added to explain the earthquake depth color coding. Overall, this setup creates an interactive map that allows users to explore various map styles and visualize earchquake and tectonic data effectively.
